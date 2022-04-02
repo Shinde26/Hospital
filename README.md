@@ -1,6 +1,6 @@
 # Hospital
 This Project is Made for Future ready talent offered by microsoft azure
-
+https://mango-ocean-0ccc8c910.1.azurestaticapps.net
 Ion microsoft azure we ahould login using using our credentials ,we should have free trail account
 or we can claim student account subscription
 After login in App Service click on Create Appservice and then fill the nedded details
